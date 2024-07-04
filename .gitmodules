@@ -1,0 +1,3 @@
+[submodule "E-commerce"]
+	path = E-commerce
+	url = https://github.com/MosesChisz/E-commerce.git
